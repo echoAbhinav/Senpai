@@ -62,6 +62,10 @@ Before you begin, ensure you have:
 - A Clerk account (free tier available)
 - A Google AI Studio account for Gemini API (optional)
 
+## 💕 Flowchart
+<img width="4696" height="11336" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/55a4436f-d88e-4fbf-bc0c-b405dd0008f9" />
+
+
 ## 🚀 Quick Start
 
 ### 1. Clone the Repository
@@ -251,11 +255,6 @@ npm run lint         # Run ESLint
 - Database hosted on [Neon](https://neon.tech)
 - AI powered by [Google Gemini](https://ai.google.dev/)
 
-## 📞 Support
-
-If you have any questions or need help, please open an issue in the GitHub repository.
-
----
 
 **Made with ❤️ by Abhinav**
 
